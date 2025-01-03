@@ -1,0 +1,6 @@
+PyQt6==6.5.0
+yt-dlp==2023.06.22
+ffmpeg-python==0.2.0
+speechbrain==0.5.14
+openai-whisper==20230314
+pyyaml==6.0
